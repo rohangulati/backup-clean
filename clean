@@ -97,5 +97,3 @@ fi
 
 rm $log_file
 
-# Need to make more interactive
-# Need more exception handling like for files with same names where are in the new directory whem moving the files
